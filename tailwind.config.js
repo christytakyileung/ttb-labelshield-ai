@@ -1,0 +1,1 @@
+module.exports = { content: ["./src/**/*.{html,ts}"], theme: { extend: { fontSize: { '2xs': '0.65rem' } } }, plugins: [], }
